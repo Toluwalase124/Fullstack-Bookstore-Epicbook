@@ -103,6 +103,8 @@ Infrastructure
 • 	Systemd / manual Node process
 
 
+---
+
 📁 Project Structure
 
 theepicbook/
@@ -137,33 +139,34 @@ theepicbook/
     ├── js/
     └── images/
 
+---
+
 🔐 Environment Variables
-
 Create a .env file:
-
 DB_HOST=<azure-mysql-hostname>
-
 DB_USER=<mysql-username>
-
 DB_PASSWORD=<mysql-password>
-
 DB_NAME=bookstore
-
 PORT=8080
 
+
+---
+
 🧪 Running Locally
-
 Install dependencies
-
 npm install
 
-Start the server
 
+---
+
+Start the server
 node server.js
 
 Expected output
-
 Executing (default): CREATE TABLE IF NOT EXISTS ...
 
 App listening on PORT 8080
+
+
+---
 
