@@ -7,17 +7,29 @@ The project follows a clean MVC architecture, supports CRUD operations for books
 ---
 
 📑 Table of Contents
+
 • 	Overview
+
 • 	Features
+
 • 	Tech Stack
+
 • 	Project Structure
+
 • 	Environment Variables
+
 • 	Running Locally
-• 	Database (Azure MySQL + Sequelize)
+
+• 	Database (Azure MySQL)
+
 • 	Deployment on Azure VM
+
 • 	Nginx Reverse Proxy Setup
+
 • 	End‑to‑End Testing
+
 • 	Common Issues
+
 • 	Future Enhancements
 
 ---
