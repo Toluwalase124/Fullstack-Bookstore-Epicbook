@@ -4,6 +4,8 @@
 EpicBook is a full‑stack bookstore web application built using Node.js, Express, Handlebars, and Sequelize ORM, deployed on a Microsoft Azure Ubuntu VM with Nginx reverse proxy and Azure Database for MySQL.
 The project follows a clean MVC architecture, supports CRUD operations for books and authors, includes cart and checkout functionality, and is fully production‑ready.
 
+---
+
 📑 Table of Contents
 • 	Overview
 • 	Features
@@ -18,6 +20,8 @@ The project follows a clean MVC architecture, supports CRUD operations for books
 • 	Common Issues
 • 	Future Enhancements
 
+---
+
 🧾 Overview
 EpicBook is a cloud‑deployed bookstore application that allows users to:
 • 	Browse books
@@ -26,6 +30,9 @@ EpicBook is a cloud‑deployed bookstore application that allows users to:
 • 	Checkout with address details
 • 	Interact with a MySQL database hosted on Azure
 The backend is powered by Node.js + Express, the frontend uses Handlebars templates, and the entire system is deployed on an Azure Ubuntu VM with Nginx acting as a reverse proxy.
+
+
+---
 
 ⭐ Features
 • 	Full CRUD for Books and Authors
@@ -36,6 +43,9 @@ The backend is powered by Node.js + Express, the frontend uses Handlebars templa
 • 	Production deployment on Azure
 • 	Reverse proxy with Nginx
 • 	Auto‑created database tables
+
+---
+
 
 🛠️ Tech Stack
 Frontend
